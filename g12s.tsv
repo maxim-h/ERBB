@@ -1,0 +1,6 @@
+Case UUID	Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes
+055e9a43-3c00-4110-a303-e4407676bec0	TCGA-55-7576	TCGA-LUAD	Lung	Male	38	6	7	16	6	1	1	1	1	1
+7099597a-b208-45b5-b9e0-11ab40d5e497	TCGA-44-3917	TCGA-LUAD	Lung	Female	45	5	6	24	6	2	1	1	1	1
+ccfdad76-cc45-447f-bed8-ede8f6a8844d	TCGA-55-7283	TCGA-LUAD	Lung	Female	36	6	7	16	4	1	1	1	1	1
+a905d275-9283-4fa6-bbbf-46019bd1bcb7	TCGA-78-8655	TCGA-LUAD	Lung	Female	32	4	5	16	4	1	1	1	1	1
+12c27db5-db2f-48dc-a2ca-9557b951f43e	TCGA-97-8176	TCGA-LUAD	Lung	Male	32	4	5	16	4	1	1	1	1	1
